@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting web 3 projects
 - 📫 How to reach me angelo_stroppa@hotmail.com
 - 😄 Pronouns: just me
-- ⚡ Fun fact: Wine maker and wateropolo player
+- ⚡ Fun fact: Wine maker and waterpolo player
 
 <!---
 angelottibus/angelottibus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
